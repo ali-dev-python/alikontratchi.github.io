@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -112,10 +112,10 @@ author:
   bio              : iust computer student.
   location         :  "tehran"
   email            : Alikontratchi200@gmai.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
+  github: alikontratchi
   instagram: ali.kontratchi
   links:
     - label: "Email"
