@@ -9,7 +9,7 @@ Ali Kontratchi
 
 
 
-![alt text](../assets/images/my pictur.jpg "My picture")
+![alt text](C:\git\Alikontratchi.github.io\assets\images "My picture")
 
 ---
 **Test**: This is atest
