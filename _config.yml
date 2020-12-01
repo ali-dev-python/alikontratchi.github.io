@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Ali kontratchi"
+title                    : "علی کنتراتچی"
 title_separator          : "-"
 name                     : "Ali" 
 description              : "Welcome to my web site."
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Ali kontratchi"
   avatar           : "/assets/images/profile.jpg"
-  bio              : iust computer student.
-  location         :  "tehran"
+  bio              : BS student in Computer Engineering, University of Science and Technology.
+  location         :  "تهران"
   email            : Alikontratchi200@gmai.com
   twitter: 
   linkedin: 
