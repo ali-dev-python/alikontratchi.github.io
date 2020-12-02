@@ -10,5 +10,7 @@ teractor_Azarbaijan
 
 ![alt text](../assets/images/teraktor.jpg "my favorite team")
 
+![alt text](../assets/images/team.jpg "my favorite team")
+
 ---
-**Test**: This is atest
+**traktor**: I love it very much.
