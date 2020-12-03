@@ -13,10 +13,10 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
+locale                   : "Iran" 
 title                    : "علی کنتراتچی"
 title_separator          : "-"
 name                     : "Ali" 
@@ -110,10 +110,10 @@ author:
   name             : "Ali kontratchi"
   avatar           : "/assets/images/ali.jpg"
   bio              : BS student in Computer Engineering, University of Science and Technology.
-  location         :  "تهران"
+  location         :  "تبریز"
   email            : Alikontratchi200@gmai.com
   twitter          : Ali kontratchi
-  linkdin          : Ali kontratchi
+  linkdin: Ali Kontratchi
   google_scholar: Q25s5KkAAAAJ
   github: alikontratchi
   instagram: ali.kontratchi
