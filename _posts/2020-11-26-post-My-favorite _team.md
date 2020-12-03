@@ -4,7 +4,7 @@ title: My favorite team
 
 ## This is my favorite team photo
 teractor_Azarbaijan
-[my favorite website](http://www.digikala.com)
+
 
 
 
