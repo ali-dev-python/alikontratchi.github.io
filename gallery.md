@@ -27,6 +27,11 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
+  - url: /assets/images/Alikontratchi.jpg
+    image_path: /assets/images/Alikontratchi.jpg
+    alt: "placeholder me"
+    title: "Me" 
+      
 
 ---
 
