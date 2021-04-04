@@ -27,10 +27,6 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
-   - url: /assets/images/Ali.k.jpg
-    image_path: /assets/images/Ali.k.jpg
-    alt: "placeholder image"
-    title: "My_image title caption"
 
 ---
 
