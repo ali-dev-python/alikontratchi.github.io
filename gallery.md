@@ -29,7 +29,7 @@ gallery:
     title: "Image 5 title caption" 
     - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
-    alt: "placeholder image 6"
+    alt: "placeholders image 6"
     title: "Image 6 title caption" 
   - url: /assets/images/Alikontratchi.jpg
     image_path: /assets/images/Alikontratchi.jpg
